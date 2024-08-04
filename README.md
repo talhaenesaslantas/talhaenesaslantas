@@ -5,6 +5,7 @@
 - If you want to reach me, just send an e-mail to talhaenesaslantas@gmail.com.
 - I've also been developing software and writing code since I was 9 years old.
 
+<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
 
 If you want to see my project on classifying mammography images, take a look at this link but it may not be over yet, I am working on this project now. ---> [Mammography Project Link](https://github.com/talhaenesaslantas/MammographyImageClassification2024)
 
