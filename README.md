@@ -6,7 +6,10 @@
 
 
 If you want to see my project on classifying mammography images, take a look at this link but it may not be over yet, I am working on this project now. ---> [Mammography Project Link](https://github.com/talhaenesaslantas/MammographyImageClassification2024)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhaenesaslantas&show_icons=true&theme=radical)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhaenesaslantas&show_icons=true&theme=radical) ![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=talhaenesaslantas&theme=radical) ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaenesaslantas&layout=compact&theme=radical)
+
+
 
 
 
