@@ -7,7 +7,7 @@
   
 If you want to see my project on classifying mammography images, take a look at this link but it may not be over yet, I am working on this project now. ---> [Mammography Project Link](https://github.com/talhaenesaslantas/MammographyImageClassification2024)
 
-![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXo0bXVjYXdmM3c1cDllNTRsOGNncmIzb3hkZnFueDE4cGRlZnBhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8dFDK1FtOLxigtGw/giphy.gif)
+![Giphy GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXo0bXVjYXdmM3c1cDllNTRsOGNncmIzb3hkZnFueDE4cGRlZnBhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8dFDK1FtOLxigtGw/giphy.gif)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhaenesaslantas&show_icons=true&theme=blueberry_duo) ![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=talhaenesaslantas&theme=blueberry_duo) ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaenesaslantas&layout=compact&theme=blueberry_duo)
 
