@@ -7,7 +7,7 @@
   
 If you want to see my project on classifying mammography images, take a look at this link but it may not be over yet, I am working on this project now. ---> [Mammography Project Link](https://github.com/talhaenesaslantas/MammographyImageClassification2024)
 
-![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlNTF1aHhiZTh4ZzRjOGw4cDE0OWJwdzYzZTkxaW1wa25iMTlqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif)
+![giphy]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlNTF1aHhiZTh4ZzRjOGw4cDE0OWJwdzYzZTkxaW1wa25iMTlqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5jZjcxczN0azcwbjVrNm5vazRpajlwMGt6ZmxjMTU5dDMwZ2R6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8dFjB7T9lNldqliM/giphy.gif))
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhaenesaslantas&show_icons=true&theme=blueberry_duo) ![My GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=talhaenesaslantas&theme=blueberry_duo) ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaenesaslantas&layout=compact&theme=blueberry_duo)
 
