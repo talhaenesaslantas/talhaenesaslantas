@@ -13,10 +13,6 @@ If you want to see my project on classifying mammography images, take a look at 
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaenesaslantas&layout=compact&theme=radical) 
 
-![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talhaenesaslantas&theme=radical) 
-
-![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=talhaenesaslantas&theme=radical) 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=talhaenesaslantas&color=blue) 
 
 ![Metrics](https://metrics.lecoq.io/talhaenesaslantas) 
