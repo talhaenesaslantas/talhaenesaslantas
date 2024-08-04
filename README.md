@@ -7,6 +7,16 @@
   
 If you want to see my project on classifying mammography images, take a look at this link but it may not be over yet, I am working on this project now. ---> [Mammography Project Link](https://github.com/talhaenesaslantas/MammographyImageClassification2024)
 
+
+
+
+
+
+
+
+
+
+
 ![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N4cWIxMHUzZHE2NG93cmk4b2ZjbTc2NHQxanR2YWx5MWY5YmFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
 
@@ -16,7 +26,34 @@ If you want to see my project on classifying mammography images, take a look at 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc2OXBlZDFrbnF4dWo4bjR6NzZ6cmVnOXBpdmRqdnFiY3BuNWNwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8dFEl4Az3mUqvrkk/giphy.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
