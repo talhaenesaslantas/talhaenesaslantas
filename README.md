@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @talhaenesaslantas ASA enes.codes
-- To give information, I actively use **Python**, **C++**, **C#** languages.
+- To give information, I actively use **Python**, **C++**, **C#** languages..
 - 👀 I’m interested in AI, Cyber Security, Game Dev., Level Design and Design.
 - If you want to reach me, just send an e-mail to talhaenesaslantas@gmail.com.
 - I've also been developing software and writing code since I was 9 years old.
