@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @talhaenesaslantas ASA enes.codes
+- 👋 Hi, I’m @talhaenesaslantas A.K.A. enes.codes
 - To give information, I actively use **Python**, **C++**, **C#** languages.
 - 👀 I’m interested in AI, Cyber Security, Game Dev., Level Design and Design.
 - If you want to reach me, just send an e-mail to talhaenesaslantas@gmail.com.
